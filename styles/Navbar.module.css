@@ -1,0 +1,22 @@
+.Nav{
+    text-align: center;
+    font-size: 2em;
+    position: relative;
+    top: -50px;
+  
+}
+.line{
+    color: blue;
+    
+}
+.line:hover{
+    text-decoration: underline;
+
+}
+.stregth{
+    transition: all 1s ease;
+    border-bottom: 1px solid gray;
+}
+.stregth:hover{
+    transform: scale(1.2,0.5);
+}
